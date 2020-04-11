@@ -1,0 +1,1 @@
+Bowden hotend mount for Geeetech i3. With 3D-touch and beefy chain for more electronics. by paultsigakis on Thingiverse: https://www.thingiverse.com/thing:4199831
